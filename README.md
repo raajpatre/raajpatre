@@ -1,5 +1,5 @@
-## Hi there 👋
-Myself Raaj Patre,
+## Hi there Raaj this side
+
 I'm a 1st year Btech Student at Newton School of Technology Bengaluru.
 Currently learning DSA, React.js and other recent technologies
 I'm also building entire website for the robotics club of our college
