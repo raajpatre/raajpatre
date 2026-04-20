@@ -1,8 +1,8 @@
 ## Hi there, Raaj this side✌🏼
 
-- I'm a 1st year Btech Student at Newton School of Technology Bengaluru.
-- Currently learning DSA, React.js and other recent technologies
-- I'm also building entire website for the robotics club of our college
+- I'm a CSE Btech Student at Newton School of Technology Bengaluru.
+- Currently learning DSA, React.js and other new technologies
+- I'm currently building the entire website for the robotics club of our college
 - If you need help in any project, you can reach me through my email and LinkedIn =]
 
 ## A bit About Me ❤️
