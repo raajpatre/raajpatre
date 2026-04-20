@@ -1,4 +1,4 @@
-## Hi there👋🏼, Raaj this side✌🏼
+## Hi there, Raaj this side✌🏼
 
 - I'm a 1st year Btech Student at Newton School of Technology Bengaluru.
 - Currently learning DSA, React.js and other recent technologies
