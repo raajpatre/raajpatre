@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  CSE BTech at NST-BLR, SVYASA University | Lead Dev & Social Media Lead at VajraX | Crew of Under25svu
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/raajpatre/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:raajpatre.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
