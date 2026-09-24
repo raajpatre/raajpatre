@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Raaj 👋</h1>
 
 <p align="center">
-  <em>I build, I ship, and I market what I build.</em>
+  <em>WanderDa said 'Life is Enjoy' =] </em>
 </p>
 
 <p align="center">
-  CSE @ Newton School of Technology, Bengaluru · Tech + Marketing Lead, AAYAM 2026 · GSSoC '26 Contributor
+  CSE BTech at NST-BLR, SVYASA University | Lead Dev & Social Media Lead at VajraX | Crew of Under25svu
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raaj-patre-ba5494271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/raajpatre/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:raajpatre.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -17,14 +17,12 @@
 
 ### 🚀 What I'm working on right now
 
-- **AAYAM 2026** — National tech fest of Newton School of Technology. Leading both tech and marketing. Live at [aayamfest.com](https://aayamfest.com).
-- **VajraX** — Internal operations platform for NST's Robotics Club. Membership, inventory, bookings, projects — one role-aware Next.js + Supabase app.
-- **GirlScript Summer of Code 2026** — Open-source contributor.
-- **Google GenAI Academy APEC** — Selected cohort, via Hack2Skill.
+- **VajraX** Production website and side projects ⚡️
+- Improving my DSA
 
 ---
 
-### 🛠️ Stack I work with
+### Stack I work with
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
